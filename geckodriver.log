@@ -1,0 +1,17 @@
+1689175493871	geckodriver	INFO	Listening on 127.0.0.1:42235
+1689175494377	webdriver::server	WARN	Rejected request with Host header localhost:42235, allowed values are []
+1689175689195	geckodriver	INFO	Listening on 127.0.0.1:59553
+1689175689214	webdriver::server	WARN	Rejected request with Host header localhost:59553, allowed values are []
+1689177019284	geckodriver	INFO	Listening on 127.0.0.1:56441
+1689177019298	webdriver::server	WARN	Rejected request with Host header localhost:56441, allowed values are []
+1689177390478	geckodriver	INFO	Listening on 127.0.0.1:40875
+1689177390594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48505" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0quulI"
+1689177451851	geckodriver	INFO	Listening on 127.0.0.1:47409
+1689177451955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileI7g9SR"
+1689177539102	geckodriver	INFO	Listening on 127.0.0.1:57975
+1689177539207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55815" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYy2Si5"
+1689178010872	geckodriver	INFO	Listening on 127.0.0.1:57925
+1689178011469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelB7zvI"
+1689180359918	geckodriver	INFO	Listening on 127.0.0.1:52715
+1689180359921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58281" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezJSmi8"
+/usr/lib/firefox/firefox: symbol lookup error: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined symbol: __libc_pthread_init, version GLIBC_PRIVATE
